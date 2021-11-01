@@ -7,4 +7,5 @@ References
 
 <a href="https://developer.arm.com/documentation/ihi0022/e/AMBA-AXI3-and-AXI4-Protocol-Specification?_ga=2.67820049.1631882347.1556009271-151447318.1544783517">ARM References</a>
 
+<a href="https://www.xilinx.com/support/documentation/sw_manuals/xilinx2021_1/ug906-vivado-design-analysis.pdf">Vivado UG 2021_1</a>
 
