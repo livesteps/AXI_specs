@@ -9,3 +9,4 @@ References
 
 <a href="https://www.xilinx.com/support/documentation/sw_manuals/xilinx2021_1/ug906-vivado-design-analysis.pdf">Vivado UG 2021_1</a>
 
+<a href="https://www.xilinx.com/video/software/jtag-to-axi-master-core.html">JTAG_to_AXI</a>
