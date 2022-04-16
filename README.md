@@ -1,4 +1,4 @@
-# AXI_specs
+# AMBA_specs
 AXI Specification and Docs
 
 References
@@ -14,3 +14,6 @@ References
 <a href="https://www.xilinx.com/video/software/jtag-to-axi-master-core.html">JTAG_to_AXI</a>
 
 <a href="https://support.xilinx.com/s/article/1173821?language=en_US">Xilinx Vivado Methology Report Adoption</a>
+
+<a href="https://github.com/srimanthtenneti/SOC-Design-ARM-M0">YUV AHB APB Ref</a>
+
