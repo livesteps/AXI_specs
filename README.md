@@ -17,3 +17,8 @@ References
 
 <a href="https://github.com/srimanthtenneti/SOC-Design-ARM-M0">YUV AHB APB Ref</a>
 
+<a href="https://www.bilibili.com/video/BV1bp4y187wf/">link1</a>
+
+<a href="https://www.bilibili.com/video/BV1RJ411T7zt?p=1">link2</a>
+
+
