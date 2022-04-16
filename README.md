@@ -21,4 +21,9 @@ References
 
 <a href="https://www.bilibili.com/video/BV1RJ411T7zt?p=1">link2</a>
 
+<a href="https://www.vlsiguru.com/sv-course-overview/">SystemVerilog</a>
+
+<a href="https://www.inskill.in">SystemVerilog2</a>
+
+
 
